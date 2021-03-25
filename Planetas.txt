@@ -6,3 +6,6 @@ Jupter
 saturno
 Netuno
 Plutao
+
+Planeta Azul
+Planeta vermelho
